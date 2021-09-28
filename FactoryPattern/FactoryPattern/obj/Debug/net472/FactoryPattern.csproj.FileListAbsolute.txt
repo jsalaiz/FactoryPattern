@@ -1,0 +1,9 @@
+C:\Users\jonat\Desktop\TrueCoders\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net472\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net472\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net472\FactoryPattern.AssemblyInfo.cs
+C:\Users\jonat\Desktop\TrueCoders\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net472\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net472\FactoryPattern.exe.config
+C:\Users\jonat\Desktop\TrueCoders\repos\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net472\FactoryPattern.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net472\FactoryPattern.pdb
+C:\Users\jonat\Desktop\TrueCoders\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net472\FactoryPattern.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net472\FactoryPattern.pdb
